@@ -23,7 +23,7 @@ Already have a Git repository on your computer? Let us push it up to Bitbucket.
 Open terminal and run below commands: 
   ```
   cd /path/to/my/repo
-  git remote add origin git@bitbucket.org:sonalw/git-training.git # Here 'origin' is remote name we can change it if required.
+  git remote add origin git@bitbucket.org:username/git-training.git # Here 'origin' is remote name we can change it if required.
   git push -u origin --all # pushes up the repo and its refs for the first time.
   git push origin --tags # pushes up any tags
 
