@@ -1,9 +1,9 @@
 # Session 2 : GIT Remote
 
 Remote sources : where you can store your code online. 
-Bitbucket
-Github
-Gitlab
+* Bitbucket
+* Github
+* Gitlab
 
 ## How to create Repository in Bitbucket?
 * Goto your bitbucket account.
